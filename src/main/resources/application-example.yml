@@ -1,0 +1,7 @@
+server:
+  port: 5100
+launchdarkly:
+  sdk:
+    client-side-id: "<my-client-side-id>"
+    mobile-key: "<my-mobile-key>"
+    server-side-key: "<my-server-side-key>"
